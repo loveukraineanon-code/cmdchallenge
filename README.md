@@ -12,3 +12,5 @@ Answer: mkdir -p tmp/files
 <img width="1534" height="414" alt="image" src="https://github.com/user-attachments/assets/9ab8c8f6-199c-48f5-b982-210d9db1764b" />
 
 <img width="1593" height="476" alt="image" src="https://github.com/user-attachments/assets/0fb6a21f-ea7e-4628-a586-5abcaaea5336" />
+
+<img width="1511" height="391" alt="image" src="https://github.com/user-attachments/assets/a8338e6c-16cf-444c-a1f2-8264b68066a1" />

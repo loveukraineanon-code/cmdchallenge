@@ -14,3 +14,5 @@ Answer: mkdir -p tmp/files
 <img width="1593" height="476" alt="image" src="https://github.com/user-attachments/assets/0fb6a21f-ea7e-4628-a586-5abcaaea5336" />
 
 <img width="1511" height="391" alt="image" src="https://github.com/user-attachments/assets/a8338e6c-16cf-444c-a1f2-8264b68066a1" />
+
+<img width="1479" height="392" alt="image" src="https://github.com/user-attachments/assets/f7a9583e-48a3-4332-b193-0928cd725492" />
